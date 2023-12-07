@@ -1,9 +1,10 @@
 # RDavis
-R Davis Class github demo
+
+The great R Davis Class github demo
 
 ## para
 
-Hello world!
+Bye bye world!
 
 ### sub-para 
 
